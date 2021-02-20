@@ -1,2 +1,2 @@
-# homepage
-にゃるのホームページ
+# にゃる
+This is Nyaru's homepage.
